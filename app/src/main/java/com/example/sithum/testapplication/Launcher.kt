@@ -14,7 +14,7 @@ class Launcher : AppCompatActivity() {
      private val mRunnable: Runnable = Runnable {
         if (!isFinishing) {
 
-            val intent = Intent(applicationContext, MainActivity::class.java)
+            val intent = Intent(applicationContext,Login::class.java)
             startActivity(intent)
             finish()
         }

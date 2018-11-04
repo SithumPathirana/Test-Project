@@ -11,4 +11,7 @@
     <string name="fragment_two_text">Fragment Two</string>
     <string name="fragment_two_send_button">Send to fragment 1</string>
     <string name="welcome_text">Welcome!!</string>
+    <string name="login_username">Username or Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_signin">Sign In</string>
 </resources>
